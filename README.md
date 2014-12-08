@@ -1,1 +1,4 @@
 # Synthrack
+### General Notes
+#### Structure
+- 
